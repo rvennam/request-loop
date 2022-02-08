@@ -1,0 +1,10 @@
+{
+  "name": "request-loop",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "axios": "^0.25.0"
+  }
+}
